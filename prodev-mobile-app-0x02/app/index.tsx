@@ -1,5 +1,6 @@
 import { Text, View, StyleSheet, Image, ImageBackground, Dimensions, TouchableOpacity } from "react-native";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
